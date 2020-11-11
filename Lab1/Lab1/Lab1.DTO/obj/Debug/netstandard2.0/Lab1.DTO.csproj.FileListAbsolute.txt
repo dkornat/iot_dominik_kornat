@@ -1,0 +1,9 @@
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\bin\Debug\netstandard2.0\Lab1.DTO.deps.json
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\bin\Debug\netstandard2.0\Lab1.DTO.dll
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\bin\Debug\netstandard2.0\Lab1.DTO.pdb
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\obj\Debug\netstandard2.0\Lab1.DTO.AssemblyInfoInputs.cache
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\obj\Debug\netstandard2.0\Lab1.DTO.AssemblyInfo.cs
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\obj\Debug\netstandard2.0\Lab1.DTO.dll
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\obj\Debug\netstandard2.0\Lab1.DTO.pdb
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\obj\Debug\netstandard2.0\Lab1.DTO.csproj.CoreCompileInputs.cache
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.DTO\obj\Debug\netstandard2.0\Lab1.DTO.csprojAssemblyReference.cache

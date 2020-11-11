@@ -1,0 +1,1 @@
+C:\Users\d.kornat\source\repos\dkornat\iot_dominik_kornat\Lab1\Lab1\Lab1.UWP\Lab1.UWP.csproj;x86

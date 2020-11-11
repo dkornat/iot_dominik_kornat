@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k6bj62V5xjHlXKJ513DW6KpHtEmZ+dIUMnFPVrQL7L3JBPmudlG7cjk2x72o+PnH6aDAWKyvCGu0L43Ll7GRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.kornat\\source\\repos\\dkornat\\iot_dominik_kornat\\Lab1\\Lab1\\Lab1.DTO\\Lab1.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.kornat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\restease\\1.5.0\\restease.1.5.0.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.0.1\\system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\d.kornat\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
